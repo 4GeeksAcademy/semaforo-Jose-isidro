@@ -9,3 +9,46 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.cola{
+    background-color:rgb(43, 43, 43);
+    width: 10px;
+    height: 50px;
+    border-radius: 1px;
+}
+.cuerpo{
+    background-color:rgb(43, 43, 43);
+    width: 100px;
+    height:300px;
+    border-radius: 10px;
+}
+
+.red{
+    background-color: red;
+    width: 90px;
+    height: 90px;
+    margin: 5px;
+    border-radius:50px;
+    opacity: 0.4;
+}
+.yellow{
+    background-color: yellow;
+    width: 90px;
+    height: 90px;
+    margin: 5px;
+    border-radius:50px;
+    opacity: 0.4;
+}
+.green{
+    background-color: green;
+    width: 90px;
+    height: 90px;
+    margin: 5px;
+    border-radius:50px;
+    opacity: 0.4;
+}
+
+.select{
+    border: 5px solid #FEFCE8 ;
+    opacity: 1;
+    
+}
